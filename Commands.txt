@@ -1,0 +1,7 @@
+Move x, 10
+Move y, 20
+If x &lt;&lt; y Add x, y
+If x &gt; y &amp; x &lt; 20 Sub x, y
+Console.WriteLieparg;&dol;&quot; Valeur de x : &acgx&acd; Valeur de y &acgy&acd&quot; pard;
+Store 30
+<>
